@@ -16,7 +16,15 @@ The single highest-impact recommendation: introduce a guided "Find My Mattress" 
 
 📊 Summary: Key Gaps Identified
 
-AreaCurrent StateCompetitor Benchmark🧭 Recommendation quizNot availableInteractive "Find My Mattress" quiz💸 Discount mechanic40% flat discount40% + extra 10% on prepaid orders🎉 Seasonal offersNot currently visibleActive seasonal campaigns📍 Pincode / location detectionNot availableLocalized pricing & delivery estimates🛏️ Product count (mattresses)~14 products~40+ products🔎 Filters availablePrice, Height, Category+ Material, Technology, Shop by Need🖼️ Layered product imageryStandard images onlyDetailed layer/cutaway visuals🔐 Mid-page login incentiveNot available"Log in to unlock more offers" banner mid-catalog📣 Offer visibility/placementNo offer banner in nav/header at allBanner above header / highlighted in menu
+🧭 Recommendation quiz — Not available (Competitor: Interactive "Find My Mattress" quiz)
+💸 Discount mechanic — 40% flat discount (Competitor: 40% + extra 10% on prepaid orders)
+🎉 Seasonal offers — Not currently visible (Competitor: Active seasonal campaigns)
+📍 Pincode / location detection — Not available (Competitor: Localized pricing & delivery estimates)
+🛏️ Product count (mattresses) — ~14 products (Competitor: ~40+ products)
+🔎 Filters available — Price, Height, Category (Competitor: + Material, Technology, Shop by Need)
+🖼️ Layered product imagery — Standard images only (Competitor: Detailed layer/cutaway visuals)
+🔐 Mid-page login incentive — Not available (Competitor: "Log in to unlock more offers" banner mid-catalog)
+📣 Offer visibility/placement — No offer banner in nav/header at all (Competitor: Banner above header / highlighted in menu)
 
 
 📄 Full Audit (with Screenshots)
